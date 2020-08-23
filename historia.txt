@@ -1,3 +1,3 @@
-Este es un archivo de texto para hacer una prueba con GITgit
+Este es un archivo de texto para hacer una prueba con Git
 
 Estamos realizando cambios en el archivo para comitiarlos en la rama master
