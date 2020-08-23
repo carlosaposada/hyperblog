@@ -1,3 +1,7 @@
 Este es un archivo de texto para hacer una prueba con Git
 
 Estamos realizando cambios en el archivo para comitiarlos en la rama master
+
+Seguimos enrreiqeciendo el archivo pero vamos a comerte un error 
+
+Apoprosito.
